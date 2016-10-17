@@ -1,0 +1,3 @@
+.bk-root select[multiple], .bk-root select[size] {
+    height: 400px !important;
+}
